@@ -8,6 +8,6 @@
 
 ## .. y a la mejor facultad dentro de la UPR-RP
 
----?color=#000000
+---?color=#ffffff
 
 ## Ahora solo te falta pertencer al mejor departamento
