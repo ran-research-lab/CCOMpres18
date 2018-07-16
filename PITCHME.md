@@ -13,7 +13,7 @@
 
 
 
----?image=img/ccomlogo.png&position=left&size=55% 100%
+---?image=img/ccomlogo.png&position=left&size=25% 100%
 
 @title[Get Ready]
 
