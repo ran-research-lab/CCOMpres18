@@ -25,7 +25,7 @@
 ## @color[#e49436](Git)Pitch
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
----?image=img/opera.jpg&size=cover&opacity=20
+---?image=img/opera.jpg&size=cover&opacity=50
 
 <br>
 
