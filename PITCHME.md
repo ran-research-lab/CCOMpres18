@@ -1,10 +1,13 @@
 ---?color=#b7410e
 
 
-## Hello, World!
+## Felicidades por entrar al mejor recinto de la UPR ... 
 
 
 ---?color=#b7410e
 
-## The End :)
+## .. y a la mejor facultad dentro de la UPR-RP
 
+---?color=#000000
+
+## Ahora solo te falta pertencer al mejor departamento
