@@ -12,5 +12,5 @@
 
 ## Ahora solo te falta pertencer al mejor departamento
 
----?image=img/ccomlogo.png&size=auto 75%&position=bottom&color=#b7410e
+---?image=img/ccomlogo.png&size=auto 50%&position=bottom&color=#b7410e
 
